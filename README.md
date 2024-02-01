@@ -8,4 +8,6 @@
 
 ## 진행상황
 
-[1. 시작하기](./docs/시작하기.md)
+[1. 시작하기](./lectures/lecture1)
+[2. 실습환경 구성](./lectures/lecture2)
+[3. Iterator](./lectures/lecture3)
