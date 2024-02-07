@@ -8,6 +8,7 @@
 
 ## 진행상황
 
-[1. 시작하기](./docs/lecture1.md)
-[2. 실습환경 구성](./docs/lecture2.md)
-[3. Iterator](./docs/lecture3.md)
+- [1. 시작하기](./docs/lecture1.md)
+- [2. 실습환경 구성](./docs/lecture2.md)
+- [3. Iterator](./docs/lecture3.md)
+- [4. Strategy](./docs/lecture4.md)
