@@ -5,6 +5,8 @@ import "./style.css";
 /** 4. Strategy  */
 // import { run } from "./strategy/index.ts";
 /** 5. Template Method */
-import { run } from "./template/index.ts";
+// import { run } from "./template/index.ts";
+/** 6. Adapter */
+import { run } from "./adapter/index.ts";
 
 run();

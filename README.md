@@ -12,3 +12,5 @@
 - [2. 실습환경 구성](./docs/lecture2.md)
 - [3. Iterator](./docs/lecture3.md)
 - [4. Strategy](./docs/lecture4.md)
+- [5. Template Method](./docs/lecture5.md)
+- [6. Adapter](./docs/lecture6.md)
