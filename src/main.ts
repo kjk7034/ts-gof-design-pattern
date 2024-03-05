@@ -7,6 +7,8 @@ import "./style.css";
 /** 5. Template Method */
 // import { run } from "./template/index.ts";
 /** 6. Adapter */
-import { run } from "./adapter/index.ts";
+// import { run } from "./adapter/index.ts";
+/** 7. Bridge */
+import { run } from "./bridge/index.ts";
 
 run();
