@@ -15,3 +15,4 @@
 - [5. Template Method](./docs/lecture5.md)
 - [6. Adapter](./docs/lecture6.md)
 - [7. Bridge](./docs/lecture7.md)
+- [8. Decorator](./docs/lecture8.md)
