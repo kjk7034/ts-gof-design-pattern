@@ -17,3 +17,4 @@
 - [7. Bridge](./docs/lecture7.md)
 - [8. Decorator](./docs/lecture8.md)
 - [9. Singleton](./docs/lecture9.md)
+- [10. Flyweight](./docs/lecture10.md)

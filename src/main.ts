@@ -13,6 +13,8 @@ import "./style.css";
 /** 8. Decorator */
 // import { run } from "./decorator/index.ts";
 /** 9. Singleton */
-import { run } from "./singleton/index.ts";
+// import { run } from "./singleton/index.ts";
+/** 10. Flyweight */
+import { run } from "./flyweight/index.ts";
 
 run();
