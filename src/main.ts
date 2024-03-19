@@ -11,6 +11,8 @@ import "./style.css";
 /** 7. Bridge */
 // import { run } from "./bridge/index.ts";
 /** 8. Decorator */
-import { run } from "./decorator/index.ts";
+// import { run } from "./decorator/index.ts";
+/** 9. Singleton */
+import { run } from "./singleton/index.ts";
 
 run();
