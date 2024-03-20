@@ -1,3 +1,7 @@
+body {
+  font-size: 14px;
+}
+
 .iterator-item {
   padding: 0.5em 0.8em;
   margin: 0.3em 0;
@@ -30,4 +34,25 @@ pre {
 
 .digit-layout div {
   border-radius: 50%;
+}
+
+.unit {
+  font-size: 2em;
+  padding-left: 2.3rem;
+  background-image: url("./images/file.svg");
+  background-repeat: no-repeat;
+  background-size: 2rem;
+  background-position: left 0.5rem;
+  font-weight: normal;
+}
+
+.folder {
+  background-image: url("./images/folder.svg");
+  font-weight: bold;
+}
+
+.unit span:nth-child(2) {
+  color: gray;
+  margin-left: 0.4em;
+  font-size: 1.3rem;
 }

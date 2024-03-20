@@ -15,6 +15,8 @@ import "./style.css";
 /** 9. Singleton */
 // import { run } from "./singleton/index.ts";
 /** 10. Flyweight */
-import { run } from "./flyweight/index.ts";
+// import { run } from "./flyweight/index.ts";
+/** 11. Composite */
+import { run } from "./composite/index.ts";
 
 run();
